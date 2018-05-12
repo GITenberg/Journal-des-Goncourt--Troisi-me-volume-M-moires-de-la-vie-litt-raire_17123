@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
     - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17123#Journal-des-Goncourt--Troisi-me-volume-M-moires-de-la-vie-litt-raire
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2005-11-21'
 gutenberg_type: Text
