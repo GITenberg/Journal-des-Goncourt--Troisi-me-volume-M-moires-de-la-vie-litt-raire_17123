@@ -1,0 +1,48 @@
+_repo: Journal-des-Goncourt--Troisi-me-volume-M-moires-de-la-vie-litt-raire_17123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Goncourt, Jules de
+    aliases:
+    - Goncourt, Jules Alfred Huot de
+    - De Goncourt, Jules
+    birthdate: 1830
+    deathdate: 1870
+    gutenberg_agent_id: '5694'
+    url: http://www.gutenberg.org/2009/agents/5694
+    wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
+  - agent_name: Goncourt, Edmond de
+    aliases:
+    - De Goncourt, Edmond
+    - Goncourt, Edmond Louis Antoine Huot de
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '5693'
+    url: http://www.gutenberg.org/2009/agents/5693
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edmond_de_Goncourt
+    - http://en.wikipedia.org/wiki/Edmond_de_Goncourt
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2005-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17123'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Social life and customs -- 19th century'
+- !lcsh 'Novelists, French -- 19th century -- Diaries'
+- !lcsh 'Paris (France) -- Intellectual life -- 19th century'
+- !lcc 'PQ'
+- !lcsh 'Goncourt, Jules de, 1830-1870 -- Diaries'
+- !lcsh 'Goncourt, Edmond de, 1822-1896 -- Diaries'
+title: 'Journal des Goncourt (Troisième volume)
+
+  Mémoires de la vie littéraire'
+url: http://www.gutenberg.org/ebooks/17123
